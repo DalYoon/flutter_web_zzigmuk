@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 
-import "../widgets/header.dart";
+import "../widgets/Header.dart";
 
 class Home extends StatelessWidget {
   @override
